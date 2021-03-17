@@ -1,0 +1,2 @@
+# Clustering
+ •the sales dataset in the attached file, it contains weekly purchased quantities of 200 products over 31 weeks. Sales.xlsx •	the  program group the products based on the similarity of their purchased quantity over all weeks.  • i use k-means algorithm to cluster the products to k clusters. •i use Manhattan distance as my distance function. •i should detect outlier data . •The final output of the program show k lists of products and show outlier product’s records.
